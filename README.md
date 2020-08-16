@@ -1,34 +1,32 @@
-``` WIP ```
 ### Hi, I'm Israel, aka [Churritzu](https://twitter.com/@churritzu) and I try to learn about anything (especially technology) because in my experience everything we learn and share helps those around us. :smile:
 
 In my 18 years of experience I have had few professional opportunities to apply new technologies, but I have also really enjoyed learning them.
 
 ## Tools
-- VS Code
-- Sublime Text
-- Mysql Workbench
-- Photoshop
-- Illustratos
-- Linux
-- Windows
-- Docker
-- Kubernetes
-- Postman
-- Insomina
+![visual studio code](./images/tools/vscode.png =64x)
+![sublime text](./images/tools/sublime-text.png)
+![mysql workbench](./images/tools/mysql-workbench.png)
+![photoshop](./images/tools/photoshop.png)
+![illustrator](./images/tools/illustrator.png)
+![linux](./images/tools/linux.png)
+![windows](./images/tools/windows.png)
+![docker](./images/tools/docker.webp)
+![kubernetes](./images/tools/kubernetes.png)
+![insomnia](./images/tools/insomnia.png)
 
 ## Languages
-- PHP
-- JAVA
-- Javascript
-- NodeJS
-- Python
-- HTML
-- CSS
+![PHP](./images/tools/php.png)
+![Java](./images/tools/java.jpg)
+![javascript](./images/tools/js.png)
+![python](./images/tools/python.png)
+![nodejs](./images/tools/nodejs.png)
+![html](./images/tools/HTML5.webp)
+![css](./images/tools/css.png)
 
 ## Clouds and VPS
-- AWS
-- GCP
-- Digital Ocean
+![aws](./images/tools/aws.png)
+![gcp](./images/tools/gcp.png)
+![digital ocean](./images/tools/digital-ocean.png)
 
 ## Goals >= 2020
 - Get better on Go
@@ -36,10 +34,9 @@ In my 18 years of experience I have had few professional opportunities to apply 
 - Learn more :smile:
 
 ## Are you looking to talk?, Here I am to talk
-- Twitter
-- Facebook
-- Linkedin
-- Webpage
+![twitter](./images/tools/twitter.png)
+![facebook](./images/tools/facebook.png)
+![linkedin](./images/tools/linkedin.png)
 
 ---
 # HAPPY CODING...
