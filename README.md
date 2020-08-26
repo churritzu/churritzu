@@ -3,7 +3,7 @@
 In my 18 years of experience I have had few professional opportunities to apply new technologies, but I have also really enjoyed learning them.
 
 ## Tools
-![visual studio code](images/tools/logo-txt.svg)
+![visual studio code](images/tools/vscode.png)
 ![sublime text](images/tools/sublime-text.png)
 ![mysql workbench](images/tools/mysql-workbench.png)
 ![photoshop](images/tools/photoshop.png)
