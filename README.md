@@ -3,30 +3,30 @@
 In my 18 years of experience I have had few professional opportunities to apply new technologies, but I have also really enjoyed learning them.
 
 ## Tools
-![visual studio code](./images/tools/vscode.png =64x)
-![sublime text](./images/tools/sublime-text.png | width=64px)
-![mysql workbench](./images/tools/mysql-workbench.png | width=64)
-![photoshop](./images/tools/photoshop.png | width=64)
-![illustrator](./images/tools/illustrator.png | width=64)
-![linux](./images/tools/linux.png | width=64)
-![windows](./images/tools/windows.png | width=64)
-![docker](./images/tools/docker.webp | width=64)
-![kubernetes](./images/tools/kubernetes.png | width=64)
-![insomnia](./images/tools/insomnia.png | width=64)
+![visual studio code](images/tools/logo-txt.svg)
+![sublime text](images/tools/sublime-text.png)
+![mysql workbench](images/tools/mysql-workbench.png)
+![photoshop](images/tools/photoshop.png)
+![illustrator](images/tools/illustrator.png)
+![linux](images/tools/linux.png)
+![windows](images/tools/windows.png)
+![docker](images/tools/docker.webp)
+![kubernetes](images/tools/kubernetes.png)
+![insomnia](images/tools/insomnia.png)
 
 ## Languages
-![PHP](./images/tools/php.png | width=64)
-![Java](./images/tools/java.jpg | width=64)
-![javascript](./images/tools/js.png | width=64)
-![python](./images/tools/python.png | width=64)
-![nodejs](./images/tools/nodejs.png | width=64)
-![html](./images/tools/HTML5.webp | width=64)
-![css](./images/tools/css.png | width=64)
+![PHP](images/tools/php.png)
+![Java](images/tools/java.jpg)
+![javascript](images/tools/js.png)
+![python](images/tools/python.png)
+![nodejs](images/tools/nodejs.png)
+![html](images/tools/HTML5.webp)
+![css](images/tools/css.png)
 
 ## Clouds and VPS
-![aws](./images/tools/aws.png | width=64)
-![gcp](./images/tools/gcp.png | width=64)
-![digital ocean](./images/tools/digital-ocean.png | width=64)
+![aws](images/tools/aws.png)
+![gcp](images/tools/gcp.png)
+![digital ocean](images/tools/digital-ocean.png)
 
 ## Goals >= 2020
 - Get better on Go
@@ -34,9 +34,9 @@ In my 18 years of experience I have had few professional opportunities to apply 
 - Learn more :smile:
 
 ## Are you looking to talk?, Here I am to talk
-![twitter](./images/tools/twitter.png | width=64)
-![facebook](./images/tools/facebook.png | width=64)
-![linkedin](./images/tools/linkedin.png | width=64)
+![twitter](images/tools/twitter.png)
+![facebook](images/tools/facebook.png)
+![linkedin](images/tools/linkedin.png)
 
 ---
 # HAPPY CODING...
