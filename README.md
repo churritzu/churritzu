@@ -3,14 +3,14 @@
 In my 18 years of experience I have had few professional opportunities to apply new technologies, but I have also really enjoyed learning them.
 
 ## Tools
-![visual studio code](images/tools/vscode.png)
+![visual studio code](images/tools/vscode.jpeg)
 ![sublime text](images/tools/sublime-text.png)
 ![mysql workbench](images/tools/mysql-workbench.png)
 ![photoshop](images/tools/photoshop.png)
 ![illustrator](images/tools/illustrator.png)
 ![linux](images/tools/linux.png)
 ![windows](images/tools/windows.png)
-![docker](images/tools/docker.webp)
+![docker](images/tools/docker.jpeg)
 ![kubernetes](images/tools/kubernetes.png)
 ![insomnia](images/tools/insomnia.png)
 
@@ -18,9 +18,9 @@ In my 18 years of experience I have had few professional opportunities to apply 
 ![PHP](images/tools/php.png)
 ![Java](images/tools/java.jpg)
 ![javascript](images/tools/js.png)
-![python](images/tools/python.png)
+![python](images/tools/python.jpeg)
 ![nodejs](images/tools/nodejs.png)
-![html](images/tools/HTML5.webp)
+![html](images/tools/HTML5.jpeg)
 ![css](images/tools/css.png)
 
 ## Clouds and VPS
@@ -34,7 +34,7 @@ In my 18 years of experience I have had few professional opportunities to apply 
 - Learn more :smile:
 
 ## Are you looking to talk?, Here I am to talk
-![twitter](images/tools/twitter.png)
+![twitter](images/tools/twitter.jpeg)
 ![facebook](images/tools/facebook.png)
 ![linkedin](images/tools/linkedin.png)
 
